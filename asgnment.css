@@ -1,0 +1,181 @@
+*{
+    background-color: black;
+}
+
+.logo{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 10%;
+}
+.navbar{
+    list-style: none;
+    gap:20px;
+    color:aqua;
+    margin-right: 100px;
+    margin-top:25px;
+    
+}
+.nav-container{
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px;
+    
+}
+.resume-btn{
+    
+    width: 120px;
+    height: 40px;
+    font-size: 14px;
+    padding: 5px 10px;
+    border: none;
+    margin-top: 30px;
+    border-radius: 5px;
+    background-color: aqua;
+    color:white;
+}
+.bnr{
+    color: white;
+    
+}
+h1{
+    color: aqua;
+    margin-left: 200px;
+    
+   
+}
+.hh{
+    margin-top: 50px;
+}
+.roles{
+    margin-left: 200px;
+}
+.roles-desc{
+    margin-left: 200px;
+}
+.img-icon
+{
+    color: aqua;
+    margin-left:200px;
+    gap:20px;
+}
+.my_image{
+    width: 300px;
+    margin-left: 30%;
+    
+}
+.port-f{
+    text-align: center;
+    padding-top:40px;
+    color: aqua;
+}
+.card-text{
+    color: aqua;
+    font-size: 14px;
+}
+.card-title{
+    color: aqua;
+}
+
+.card
+{
+    margin-left: 25%;
+}
+.expert{
+    margin-left: 25%;
+    color: aqua;
+    padding-top: 40px;
+}
+.exp{
+ margin-left:25%;
+}
+.g{
+    height: 150px;
+}
+.n{
+    height: 150px;
+}
+.fam{
+    margin-left: 25%;
+    color: aqua;
+    padding-top: 40px;
+}
+.buyer-exp{
+    margin-left: 25%;
+    color: aqua;
+    padding-top: 40px;
+}
+.brand-exp{
+    margin-left: 25%;
+    color: aqua;
+    padding-top: 40px;
+}
+.merch-exp{
+    margin-left: 25%;
+    color: aqua;
+    padding-top: 40px;
+}
+.ed{
+    color: aqua;
+}
+.aust{
+    margin-left: 30%;
+    color: white;
+}
+.contact{
+    text-align: center;
+    padding-top:100px;
+    color:white;
+}
+.mb-3{
+    color: aqua;
+}
+.input-group-text{
+    width: 130px;
+    text-align: center;
+    background-color: black;
+    color:aqua;
+    margin-left:45%;
+    margin-top:20px;
+}
+.frm{
+    width:50%;
+    margin-left: 25%;
+}
+.frm-txt{
+    margin-left: 25%;
+}
+
+.line{
+    width:100%;
+     border-bottom: 1px solid aqua;
+ }
+ .ftr-icons{
+    color: aqua;
+    padding-top: 20px;
+    margin-left: 47%;
+    
+ }
+ .cpr1{
+    color:white;
+    margin-left: 40%;
+    
+ }
+ .cpr2{
+    color:white;
+    margin-left: 42%;
+    
+ }
+ @media only screen and (min-width:400px) and (max-width:767px)
+ {
+   
+.nav-container logo
+{
+    width:300px;
+   
+}
+
+}
+
