@@ -5,13 +5,13 @@
 .logo{
     margin-top: 0px;
     margin-left: 0px;
-    width: 10%;
+    width: 150px;
 }
 .navbar{
     list-style: none;
-    gap:20px;
+    
     color:aqua;
-    margin-right: 100px;
+    cursor: pointer;
     margin-top:25px;
     
 }
@@ -167,6 +167,10 @@ h1{
     color:white;
     margin-left: 42%;
     
+ }
+ .fa-solid
+ {
+    cursor: pointer;
  }
  @media only screen and (min-width:400px) and (max-width:767px)
  {
